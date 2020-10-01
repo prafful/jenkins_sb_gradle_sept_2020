@@ -8,7 +8,7 @@ public class HelloWorldRestController {
 
 	@RequestMapping("/")
 	public String welcome() {
-		return "Welcome to Spring Boot With Gradle!!!!";
+		return "Welcome to Spring Boot With Gradle!!!! Check";
 	}
 	
 }
